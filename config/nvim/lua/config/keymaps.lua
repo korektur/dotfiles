@@ -2,8 +2,6 @@
 -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
 -- Add any additional keymaps here
 -- Toggle visibility of nvim tree
-vim.g.mapleader = " "
-vim.g.maplocalleader = " "
 
 -- Shorten function name
 local keymap = vim.keymap.set
