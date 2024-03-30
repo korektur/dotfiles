@@ -6,8 +6,6 @@
 -- Shorten function name
 local keymap = vim.keymap.set
 
-keymap("n", "<C-n>", "<cmd>NvimTreeToggle<CR>", { silent = true, desc = "toggle neovim tree" })
-
 -- Resize
 keymap("n", "<C-Up>", ":resize +2<CR>", { silent = true, desc = "Increase window height" })
 keymap("n", "<C-Down>", ":resize -2<CR>", { silent = true, desc = "Decrease window height" })
