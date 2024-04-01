@@ -18,7 +18,7 @@ return {
     Unit = " ",
     Value = "󰎠 ",
     Enum = " ",
-    Keyword = "󰉨 ",
+
     Snippet = "󰃐 ",
     Color = "󰏘 ",
     File = "󰈙 ",

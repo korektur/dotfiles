@@ -118,3 +118,4 @@ alias ls=lsd
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 [ -f "/home/korektur/.ghcup/env" ] && . "/home/korektur/.ghcup/env" # ghcup-env
+eval "$(zoxide init zsh)"
